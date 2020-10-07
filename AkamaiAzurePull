@@ -1,0 +1,59 @@
+$connectionName = "AzureRunAsConnection"
+try
+{
+    # Get the connection "AzureRunAsConnection"
+    $servicePrincipalConnection=Get-AutomationConnection -Name $connectionName         
+
+    "Logging in to Azure..."
+    Add-AzureRmAccount `
+        -ServicePrincipal `
+        -TenantId $servicePrincipalConnection.TenantId `
+        -ApplicationId $servicePrincipalConnection.ApplicationId `
+        -CertificateThumbprint $servicePrincipalConnection.CertificateThumbprint | Out-Null
+}
+catch {
+    if (!$servicePrincipalConnection)
+    {
+        $ErrorMessage = "Connection $connectionName not found."
+        throw $ErrorMessage
+    } else{
+        Write-Error -Message $_.Exception
+        throw $_.Exception
+    }
+}
+"Selecting Azure Subscription..."
+Select-AzureRMSubscription -SubscriptionName 'Digital Platform NonProd' | Out-Null
+$uri = "https://" + (Get-AutomationVariable -Name "AKAMAI_FRM_host")
+$client_token = Get-AutomationVariable -Name "AKAMAI_FRM_client_token"
+$client_secret = Get-AutomationVariable -Name "AKAMAI_FRM_client_secret"
+$access_token = Get-AutomationVariable -Name "AKAMAI_FRM_access_token"
+$time_stamp = Get-Date -Format "yyyyMMddTHH:mm:ss+0000"
+$nonce = New-Guid
+$signature = ''
+$header = "EG1-HMAC-SHA256 client_token=$($client_token);access_token=$($access_token);timestamp=$($time_stamp);nonce=$($nonce);signature=$($signature)"
+$headers = @{
+    'Authorization' = $header
+}
+"uri = " + $uri
+"header = " + $header
+
+# set IP
+"Resolving FQDN..."
+$currentIpAddress = Invoke-RestMethod -Uri $uri -Method Get -Headers $headers
+Write-Host $currentIpAddress
+
+<# set NSG Rule Parameters
+"Updating NSG Rule..."
+$nsg = Get-AzureRmNetworkSecurityGroup -Name "ihsmeus2-dev" -ResourceGroupName "ihsmeus2-dev-NSG"
+Set-AzureRmNetworkSecurityRuleConfig -NetworkSecurityGroup $nsg `
+    -Name AllowAkamaiFTPtest `
+    -Access Allow `
+    -Protocol * `
+    -Direction Outbound `
+    -Priority 301 `
+    -SourceAddressPrefix * `
+    -SourcePortRange * `
+    -DestinationAddressPrefix $currentIpAddress `
+    -DestinationPortRange * | Out-Null
+$null = Set-AzureRmNetworkSecurityGroup -NetworkSecurityGroup $nsg | Out-Null
+"Updating NSG Rule COMPELTE"#>
