@@ -1,0 +1,7881 @@
+Resolving FQDN...
+
+
+
+
+
+cidrId        : 361
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 80.67.67.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 80.67.67.0
+
+maxIp         : 80.67.67.255
+
+lastAction    : update
+
+
+
+cidrId        : 362
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 80.67.68.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2013-11-26
+
+minIp         : 80.67.68.0
+
+maxIp         : 80.67.68.255
+
+lastAction    : add
+
+
+
+cidrId        : 363
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 193.108.92.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 193.108.92.0
+
+maxIp         : 193.108.92.255
+
+lastAction    : update
+
+
+
+cidrId        : 364
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 193.108.90.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 193.108.90.0
+
+maxIp         : 193.108.90.255
+
+lastAction    : update
+
+
+
+cidrId        : 365
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 193.108.152.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 193.108.152.0
+
+maxIp         : 193.108.152.255
+
+lastAction    : update
+
+
+
+cidrId        : 366
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 195.245.126.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 195.245.126.0
+
+maxIp         : 195.245.126.255
+
+lastAction    : update
+
+
+
+cidrId        : 367
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.18.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.18.0
+
+maxIp         : 72.246.18.255
+
+lastAction    : update
+
+
+
+cidrId        : 368
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.16.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.16.0
+
+maxIp         : 72.246.16.255
+
+lastAction    : update
+
+
+
+cidrId        : 369
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 60.254.128.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 60.254.128.0
+
+maxIp         : 60.254.128.255
+
+lastAction    : update
+
+
+
+cidrId        : 370
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 195.95.192.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 195.95.192.0
+
+maxIp         : 195.95.192.255
+
+lastAction    : update
+
+
+
+cidrId        : 371
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.26.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.26.0
+
+maxIp         : 72.246.26.255
+
+lastAction    : update
+
+
+
+cidrId        : 372
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.24.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.24.0
+
+maxIp         : 72.246.24.255
+
+lastAction    : update
+
+
+
+cidrId        : 373
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 84.53.147.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 84.53.147.0
+
+maxIp         : 84.53.147.255
+
+lastAction    : update
+
+
+
+cidrId        : 374
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 84.53.143.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 84.53.143.0
+
+maxIp         : 84.53.143.255
+
+lastAction    : update
+
+
+
+cidrId        : 375
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.194.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.194.0
+
+maxIp         : 72.246.194.255
+
+lastAction    : update
+
+
+
+cidrId        : 376
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.192.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.192.0
+
+maxIp         : 72.246.192.255
+
+lastAction    : update
+
+
+
+cidrId        : 377
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.193.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.193.0
+
+maxIp         : 72.246.193.255
+
+lastAction    : update
+
+
+
+cidrId        : 378
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.195.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.195.0
+
+maxIp         : 72.246.195.255
+
+lastAction    : update
+
+
+
+cidrId        : 379
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.122.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.122.0
+
+maxIp         : 72.247.122.255
+
+lastAction    : update
+
+
+
+cidrId        : 380
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.124.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.124.0
+
+maxIp         : 72.247.124.255
+
+lastAction    : update
+
+
+
+cidrId        : 381
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 84.53.172.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 84.53.172.0
+
+maxIp         : 84.53.172.255
+
+lastAction    : update
+
+
+
+cidrId        : 383
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.120.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.120.0
+
+maxIp         : 72.247.120.255
+
+lastAction    : update
+
+
+
+cidrId        : 384
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.123.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.123.0
+
+maxIp         : 72.247.123.255
+
+lastAction    : update
+
+
+
+cidrId        : 385
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.144.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.144.0
+
+maxIp         : 72.247.144.255
+
+lastAction    : update
+
+
+
+cidrId        : 387
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.121.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.121.0
+
+maxIp         : 72.247.121.255
+
+lastAction    : update
+
+
+
+cidrId        : 388
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.220.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.220.0
+
+maxIp         : 72.247.220.255
+
+lastAction    : update
+
+
+
+cidrId        : 390
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.232.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.232.0
+
+maxIp         : 72.247.232.255
+
+lastAction    : update
+
+
+
+cidrId        : 392
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.221.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2007-10-27
+
+effectiveDate : 2007-11-12
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.221.0
+
+maxIp         : 72.247.221.255
+
+lastAction    : update
+
+
+
+cidrId        : 841
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 204.2.129.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-25
+
+changeDate    : 2008-07-10
+
+minIp         : 204.2.129.0
+
+maxIp         : 204.2.129.255
+
+lastAction    : update
+
+
+
+cidrId        : 842
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 65.113.17.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 65.113.17.0
+
+maxIp         : 65.113.17.255
+
+lastAction    : update
+
+
+
+cidrId        : 843
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 69.36.244.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 69.36.244.0
+
+maxIp         : 69.36.244.255
+
+lastAction    : update
+
+
+
+cidrId        : 844
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.118.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.118.0
+
+maxIp         : 72.246.118.255
+
+lastAction    : update
+
+
+
+cidrId        : 845
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.92.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 72.246.92.0
+
+maxIp         : 72.246.92.255
+
+lastAction    : update
+
+
+
+cidrId        : 846
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.223.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.223.0
+
+maxIp         : 72.247.223.255
+
+lastAction    : update
+
+
+
+cidrId        : 847
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.36.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 96.7.36.0
+
+maxIp         : 96.7.36.255
+
+lastAction    : update
+
+
+
+cidrId        : 848
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 88.221.24.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-25
+
+changeDate    : 2008-07-10
+
+minIp         : 88.221.24.0
+
+maxIp         : 88.221.24.255
+
+lastAction    : update
+
+
+
+cidrId        : 849
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 8.3.20.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-04-10
+
+effectiveDate : 2008-04-10
+
+changeDate    : 2008-07-10
+
+minIp         : 8.3.20.0
+
+maxIp         : 8.3.20.255
+
+lastAction    : update
+
+
+
+cidrId        : 904
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.236.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-07-08
+
+effectiveDate : 2008-07-23
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.236.0
+
+maxIp         : 72.247.236.255
+
+lastAction    : update
+
+
+
+cidrId        : 905
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.237.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-07-08
+
+effectiveDate : 2008-07-23
+
+changeDate    : 2008-07-10
+
+minIp         : 72.247.237.0
+
+maxIp         : 72.247.237.255
+
+lastAction    : update
+
+
+
+cidrId        : 906
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.37.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-07-08
+
+effectiveDate : 2008-07-23
+
+changeDate    : 2008-07-10
+
+minIp         : 96.7.37.0
+
+maxIp         : 96.7.37.255
+
+lastAction    : update
+
+
+
+cidrId        : 1141
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.42.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-10-08
+
+effectiveDate : 2008-10-23
+
+changeDate    : 
+
+minIp         : 96.7.42.0
+
+maxIp         : 96.7.42.255
+
+lastAction    : update
+
+
+
+cidrId        : 1142
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.233.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-10-08
+
+effectiveDate : 2008-10-23
+
+changeDate    : 
+
+minIp         : 72.247.233.0
+
+maxIp         : 72.247.233.255
+
+lastAction    : update
+
+
+
+cidrId        : 1261
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.39.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-12-19
+
+effectiveDate : 2009-01-03
+
+changeDate    : 
+
+minIp         : 96.7.39.0
+
+maxIp         : 96.7.39.255
+
+lastAction    : update
+
+
+
+cidrId        : 1262
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.45.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-12-19
+
+effectiveDate : 2009-01-03
+
+changeDate    : 
+
+minIp         : 96.7.45.0
+
+maxIp         : 96.7.45.255
+
+lastAction    : update
+
+
+
+cidrId        : 1263
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.127.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2008-12-19
+
+effectiveDate : 2009-01-03
+
+changeDate    : 
+
+minIp         : 72.247.127.0
+
+maxIp         : 72.247.127.255
+
+lastAction    : update
+
+
+
+cidrId        : 1501
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 92.122.204.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-02-24
+
+effectiveDate : 2009-03-11
+
+changeDate    : 
+
+minIp         : 92.122.204.0
+
+maxIp         : 92.122.204.255
+
+lastAction    : add
+
+
+
+cidrId        : 1502
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 92.122.205.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-02-24
+
+effectiveDate : 2009-03-11
+
+changeDate    : 
+
+minIp         : 92.122.205.0
+
+maxIp         : 92.122.205.255
+
+lastAction    : add
+
+
+
+cidrId        : 1503
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 125.56.209.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-02-24
+
+effectiveDate : 2009-03-11
+
+changeDate    : 
+
+minIp         : 125.56.209.0
+
+maxIp         : 125.56.209.255
+
+lastAction    : add
+
+
+
+cidrId        : 1504
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.37.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-02-24
+
+effectiveDate : 2009-03-11
+
+changeDate    : 
+
+minIp         : 72.247.37.0
+
+maxIp         : 72.247.37.255
+
+lastAction    : add
+
+
+
+cidrId        : 1505
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.44.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-02-24
+
+effectiveDate : 2009-03-11
+
+changeDate    : 
+
+minIp         : 96.7.44.0
+
+maxIp         : 96.7.44.255
+
+lastAction    : add
+
+
+
+cidrId        : 1506
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.22.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-02-24
+
+effectiveDate : 2009-03-11
+
+changeDate    : 
+
+minIp         : 72.247.22.0
+
+maxIp         : 72.247.22.255
+
+lastAction    : add
+
+
+
+cidrId        : 1741
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.17.172.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-07-16
+
+effectiveDate : 2009-07-31
+
+changeDate    : 
+
+minIp         : 96.17.172.0
+
+maxIp         : 96.17.172.255
+
+lastAction    : add
+
+
+
+cidrId        : 1742
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.17.153.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-07-16
+
+effectiveDate : 2009-07-31
+
+changeDate    : 
+
+minIp         : 96.17.153.0
+
+maxIp         : 96.17.153.255
+
+lastAction    : add
+
+
+
+cidrId        : 1743
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.17.152.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2009-07-16
+
+effectiveDate : 2009-07-31
+
+changeDate    : 
+
+minIp         : 96.17.152.0
+
+maxIp         : 96.17.152.255
+
+lastAction    : add
+
+
+
+cidrId        : 2181
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.43.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-02-18
+
+effectiveDate : 2010-03-05
+
+changeDate    : 
+
+minIp         : 96.7.43.0
+
+maxIp         : 96.7.43.255
+
+lastAction    : add
+
+
+
+cidrId        : 2182
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.6.116.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-02-18
+
+effectiveDate : 2010-03-05
+
+changeDate    : 
+
+minIp         : 96.6.116.0
+
+maxIp         : 96.6.116.255
+
+lastAction    : add
+
+
+
+cidrId        : 2183
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.6.118.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-02-18
+
+effectiveDate : 2010-03-05
+
+changeDate    : 
+
+minIp         : 96.6.118.0
+
+maxIp         : 96.6.118.255
+
+lastAction    : add
+
+
+
+cidrId        : 2184
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.6.115.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-02-18
+
+effectiveDate : 2010-03-05
+
+changeDate    : 
+
+minIp         : 96.6.115.0
+
+maxIp         : 96.6.115.255
+
+lastAction    : add
+
+
+
+cidrId        : 2185
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.6.43.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-02-18
+
+effectiveDate : 2010-03-05
+
+changeDate    : 
+
+minIp         : 96.6.43.0
+
+maxIp         : 96.6.43.255
+
+lastAction    : add
+
+
+
+cidrId        : 2186
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.96.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-02-18
+
+effectiveDate : 2010-03-05
+
+changeDate    : 
+
+minIp         : 96.16.96.0
+
+maxIp         : 96.16.96.255
+
+lastAction    : add
+
+
+
+cidrId        : 2201
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 125.56.217.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-03-02
+
+effectiveDate : 2010-03-02
+
+changeDate    : 
+
+minIp         : 125.56.217.0
+
+maxIp         : 125.56.217.255
+
+lastAction    : add
+
+
+
+cidrId        : 2241
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 204.8.48.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-04-13
+
+effectiveDate : 2010-04-28
+
+changeDate    : 
+
+minIp         : 204.8.48.0
+
+maxIp         : 204.8.48.255
+
+lastAction    : add
+
+
+
+cidrId        : 2242
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 92.123.79.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-04-13
+
+effectiveDate : 2010-04-28
+
+changeDate    : 
+
+minIp         : 92.123.79.0
+
+maxIp         : 92.123.79.255
+
+lastAction    : add
+
+
+
+cidrId        : 2243
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.50.24.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-04-13
+
+effectiveDate : 2010-04-28
+
+changeDate    : 
+
+minIp         : 184.50.24.0
+
+maxIp         : 184.50.24.255
+
+lastAction    : add
+
+
+
+cidrId        : 2261
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.204.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-05-25
+
+effectiveDate : 2010-06-09
+
+changeDate    : 
+
+minIp         : 184.51.204.0
+
+maxIp         : 184.51.204.255
+
+lastAction    : add
+
+
+
+cidrId        : 2262
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 92.122.120.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-05-25
+
+effectiveDate : 2010-06-09
+
+changeDate    : 
+
+minIp         : 92.122.120.0
+
+maxIp         : 92.122.120.255
+
+lastAction    : add
+
+
+
+cidrId        : 2263
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.205.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-05-25
+
+effectiveDate : 2010-06-09
+
+changeDate    : 
+
+minIp         : 184.51.205.0
+
+maxIp         : 184.51.205.255
+
+lastAction    : add
+
+
+
+cidrId        : 2361
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.238.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 184.84.238.0
+
+maxIp         : 184.84.238.255
+
+lastAction    : add
+
+
+
+cidrId        : 2362
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.85.252.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 184.85.252.0
+
+maxIp         : 184.85.252.255
+
+lastAction    : add
+
+
+
+cidrId        : 2363
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.217.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 184.84.217.0
+
+maxIp         : 184.84.217.255
+
+lastAction    : add
+
+
+
+cidrId        : 2364
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.216.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 184.84.216.0
+
+maxIp         : 184.84.216.255
+
+lastAction    : add
+
+
+
+cidrId        : 2365
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.219.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 184.84.219.0
+
+maxIp         : 184.84.219.255
+
+lastAction    : add
+
+
+
+cidrId        : 2366
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.218.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 184.84.218.0
+
+maxIp         : 184.84.218.255
+
+lastAction    : add
+
+
+
+cidrId        : 2367
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 95.101.32.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-08-02
+
+effectiveDate : 2010-08-17
+
+changeDate    : 
+
+minIp         : 95.101.32.0
+
+maxIp         : 95.101.32.255
+
+lastAction    : add
+
+
+
+cidrId        : 2421
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.222.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-10-15
+
+effectiveDate : 2010-10-15
+
+changeDate    : 
+
+minIp         : 72.247.222.0
+
+maxIp         : 72.247.222.255
+
+lastAction    : add
+
+
+
+cidrId        : 2422
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.213.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-10-15
+
+effectiveDate : 2010-10-30
+
+changeDate    : 
+
+minIp         : 96.7.213.0
+
+maxIp         : 96.7.213.255
+
+lastAction    : add
+
+
+
+cidrId        : 2423
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 173.223.233.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-10-15
+
+effectiveDate : 2010-10-30
+
+changeDate    : 
+
+minIp         : 173.223.233.0
+
+maxIp         : 173.223.233.255
+
+lastAction    : add
+
+
+
+cidrId        : 2424
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.203.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-10-15
+
+effectiveDate : 2010-10-30
+
+changeDate    : 
+
+minIp         : 184.51.203.0
+
+maxIp         : 184.51.203.255
+
+lastAction    : add
+
+
+
+cidrId        : 2425
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.87.172.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-10-15
+
+effectiveDate : 2010-10-30
+
+changeDate    : 
+
+minIp         : 184.87.172.0
+
+maxIp         : 184.87.172.255
+
+lastAction    : add
+
+
+
+cidrId        : 2481
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.216.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 96.7.216.0
+
+maxIp         : 96.7.216.255
+
+lastAction    : add
+
+
+
+cidrId        : 2482
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.217.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 96.7.217.0
+
+maxIp         : 96.7.217.255
+
+lastAction    : add
+
+
+
+cidrId        : 2483
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 173.223.234.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 173.223.234.0
+
+maxIp         : 173.223.234.255
+
+lastAction    : add
+
+
+
+cidrId        : 2484
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.34.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 96.7.34.0
+
+maxIp         : 96.7.34.255
+
+lastAction    : add
+
+
+
+cidrId        : 2485
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.223.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 96.7.223.0
+
+maxIp         : 96.7.223.255
+
+lastAction    : add
+
+
+
+cidrId        : 2486
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.87.173.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 184.87.173.0
+
+maxIp         : 184.87.173.255
+
+lastAction    : add
+
+
+
+cidrId        : 2487
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 95.100.243.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 95.100.243.0
+
+maxIp         : 95.100.243.255
+
+lastAction    : add
+
+
+
+cidrId        : 2488
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 95.100.254.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2010-12-14
+
+effectiveDate : 2010-12-29
+
+changeDate    : 
+
+minIp         : 95.100.254.0
+
+maxIp         : 95.100.254.255
+
+lastAction    : add
+
+
+
+cidrId        : 2501
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.4.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-01-12
+
+effectiveDate : 2011-01-27
+
+changeDate    : 
+
+minIp         : 96.16.4.0
+
+maxIp         : 96.16.4.255
+
+lastAction    : add
+
+
+
+cidrId        : 2521
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.5.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-01-13
+
+effectiveDate : 2011-01-28
+
+changeDate    : 
+
+minIp         : 96.16.5.0
+
+maxIp         : 96.16.5.255
+
+lastAction    : add
+
+
+
+cidrId        : 2561
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.2.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-02-09
+
+effectiveDate : 2011-02-24
+
+changeDate    : 
+
+minIp         : 96.16.2.0
+
+maxIp         : 96.16.2.255
+
+lastAction    : add
+
+
+
+cidrId        : 2562
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.3.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-02-09
+
+effectiveDate : 2011-02-24
+
+changeDate    : 
+
+minIp         : 96.16.3.0
+
+maxIp         : 96.16.3.255
+
+lastAction    : add
+
+
+
+cidrId        : 2581
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.126.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-02-11
+
+effectiveDate : 2011-02-26
+
+changeDate    : 
+
+minIp         : 72.247.126.0
+
+maxIp         : 72.247.126.255
+
+lastAction    : add
+
+
+
+cidrId        : 2582
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.17.179.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-02-11
+
+effectiveDate : 2011-02-26
+
+changeDate    : 
+
+minIp         : 96.17.179.0
+
+maxIp         : 96.17.179.255
+
+lastAction    : add
+
+
+
+cidrId        : 2621
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 74.247.4.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 74.247.4.0
+
+maxIp         : 74.247.4.255
+
+lastAction    : add
+
+
+
+cidrId        : 2622
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 74.247.5.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 74.247.5.0
+
+maxIp         : 74.247.5.255
+
+lastAction    : add
+
+
+
+cidrId        : 2623
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.27.116.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 184.27.116.0
+
+maxIp         : 184.27.116.255
+
+lastAction    : add
+
+
+
+cidrId        : 2624
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.27.117.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 184.27.117.0
+
+maxIp         : 184.27.117.255
+
+lastAction    : add
+
+
+
+cidrId        : 2625
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 173.222.232.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 173.222.232.0
+
+maxIp         : 173.222.232.255
+
+lastAction    : add
+
+
+
+cidrId        : 2626
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 173.222.233.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 173.222.233.0
+
+maxIp         : 173.222.233.255
+
+lastAction    : add
+
+
+
+cidrId        : 2627
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.246.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 72.246.246.0
+
+maxIp         : 72.246.246.255
+
+lastAction    : add
+
+
+
+cidrId        : 2628
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.20.178.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 2.20.178.0
+
+maxIp         : 2.20.178.255
+
+lastAction    : add
+
+
+
+cidrId        : 2629
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 95.100.252.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 95.100.252.0
+
+maxIp         : 95.100.252.255
+
+lastAction    : add
+
+
+
+cidrId        : 2630
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.27.114.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 184.27.114.0
+
+maxIp         : 184.27.114.255
+
+lastAction    : add
+
+
+
+cidrId        : 2631
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.27.115.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-04-19
+
+effectiveDate : 2011-05-04
+
+changeDate    : 
+
+minIp         : 184.27.115.0
+
+maxIp         : 184.27.115.255
+
+lastAction    : add
+
+
+
+cidrId        : 2681
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.181.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-06-16
+
+effectiveDate : 2011-07-01
+
+changeDate    : 
+
+minIp         : 184.84.181.0
+
+maxIp         : 184.84.181.255
+
+lastAction    : add
+
+
+
+cidrId        : 2682
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.2.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-06-16
+
+effectiveDate : 2011-07-01
+
+changeDate    : 
+
+minIp         : 23.15.2.0
+
+maxIp         : 23.15.2.255
+
+lastAction    : add
+
+
+
+cidrId        : 2704
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.2.4.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-06-30
+
+effectiveDate : 2011-07-15
+
+changeDate    : 
+
+minIp         : 23.2.4.0
+
+maxIp         : 23.2.4.255
+
+lastAction    : add
+
+
+
+cidrId        : 2721
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.25.96.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-07-19
+
+effectiveDate : 2011-08-03
+
+changeDate    : 
+
+minIp         : 184.25.96.0
+
+maxIp         : 184.25.96.255
+
+lastAction    : add
+
+
+
+cidrId        : 2745
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.5.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-08-08
+
+effectiveDate : 2011-08-23
+
+changeDate    : 
+
+minIp         : 72.247.5.0
+
+maxIp         : 72.247.5.255
+
+lastAction    : add
+
+
+
+cidrId        : 2746
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.20.184.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-08-08
+
+effectiveDate : 2011-08-23
+
+changeDate    : 
+
+minIp         : 2.20.184.0
+
+maxIp         : 2.20.184.255
+
+lastAction    : add
+
+
+
+cidrId        : 2761
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.22.229.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-08-29
+
+effectiveDate : 2011-09-13
+
+changeDate    : 
+
+minIp         : 2.22.229.0
+
+maxIp         : 2.22.229.255
+
+lastAction    : add
+
+
+
+cidrId        : 2762
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.2.6.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-08-31
+
+effectiveDate : 2011-09-15
+
+changeDate    : 
+
+minIp         : 23.2.6.0
+
+maxIp         : 23.2.6.255
+
+lastAction    : add
+
+
+
+cidrId        : 2801
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.21.254.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-09-20
+
+effectiveDate : 2011-10-05
+
+changeDate    : 
+
+minIp         : 2.21.254.0
+
+maxIp         : 2.21.254.255
+
+lastAction    : add
+
+
+
+cidrId        : 2821
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.2.7.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-03
+
+effectiveDate : 2011-10-18
+
+changeDate    : 
+
+minIp         : 23.2.7.0
+
+maxIp         : 23.2.7.255
+
+lastAction    : add
+
+
+
+cidrId        : 2841
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.197.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-17
+
+effectiveDate : 2011-11-01
+
+changeDate    : 
+
+minIp         : 23.15.197.0
+
+maxIp         : 23.15.197.255
+
+lastAction    : add
+
+
+
+cidrId        : 2842
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.203.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-18
+
+effectiveDate : 2011-11-02
+
+changeDate    : 
+
+minIp         : 23.15.203.0
+
+maxIp         : 23.15.203.255
+
+lastAction    : add
+
+
+
+cidrId        : 2861
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.22.250.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-19
+
+effectiveDate : 2011-11-03
+
+changeDate    : 
+
+minIp         : 2.22.250.0
+
+maxIp         : 2.22.250.255
+
+lastAction    : add
+
+
+
+cidrId        : 2881
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.196.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-21
+
+effectiveDate : 2011-11-05
+
+changeDate    : 
+
+minIp         : 23.15.196.0
+
+maxIp         : 23.15.196.255
+
+lastAction    : add
+
+
+
+cidrId        : 2882
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.202.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-21
+
+effectiveDate : 2011-11-05
+
+changeDate    : 
+
+minIp         : 23.15.202.0
+
+maxIp         : 23.15.202.255
+
+lastAction    : add
+
+
+
+cidrId        : 2901
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.22.53.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-10-24
+
+effectiveDate : 2011-11-08
+
+changeDate    : 
+
+minIp         : 2.22.53.0
+
+maxIp         : 2.22.53.255
+
+lastAction    : add
+
+
+
+cidrId        : 2921
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.21.86.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 2.21.86.0
+
+maxIp         : 2.21.86.255
+
+lastAction    : add
+
+
+
+cidrId        : 2922
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.21.87.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 2.21.87.0
+
+maxIp         : 2.21.87.255
+
+lastAction    : add
+
+
+
+cidrId        : 2923
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.22.235.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 2.22.235.0
+
+maxIp         : 2.22.235.255
+
+lastAction    : add
+
+
+
+cidrId        : 2924
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.198.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 23.15.198.0
+
+maxIp         : 23.15.198.255
+
+lastAction    : add
+
+
+
+cidrId        : 2925
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.199.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 23.15.199.0
+
+maxIp         : 23.15.199.255
+
+lastAction    : add
+
+
+
+cidrId        : 2926
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.33.126.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 23.33.126.0
+
+maxIp         : 23.33.126.255
+
+lastAction    : add
+
+
+
+cidrId        : 2927
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.33.185.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 23.33.185.0
+
+maxIp         : 23.33.185.255
+
+lastAction    : add
+
+
+
+cidrId        : 2928
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.33.125.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-11-16
+
+effectiveDate : 2011-12-01
+
+changeDate    : 
+
+minIp         : 23.33.125.0
+
+maxIp         : 23.33.125.255
+
+lastAction    : add
+
+
+
+cidrId        : 2949
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.58.82.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 23.58.82.0
+
+maxIp         : 23.58.82.255
+
+lastAction    : add
+
+
+
+cidrId        : 2950
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.28.83.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 23.28.83.0
+
+maxIp         : 23.28.83.255
+
+lastAction    : add
+
+
+
+cidrId        : 2951
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.22.54.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 2.22.54.0
+
+maxIp         : 2.22.54.255
+
+lastAction    : add
+
+
+
+cidrId        : 2952
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.33.127.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 23.33.127.0
+
+maxIp         : 23.33.127.255
+
+lastAction    : add
+
+
+
+cidrId        : 2953
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 193.108.155.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 193.108.155.0
+
+maxIp         : 193.108.155.255
+
+lastAction    : add
+
+
+
+cidrId        : 2954
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 124.40.41.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 124.40.41.0
+
+maxIp         : 124.40.41.255
+
+lastAction    : add
+
+
+
+cidrId        : 2955
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 202.47.28.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 202.47.28.0
+
+maxIp         : 202.47.28.255
+
+lastAction    : add
+
+
+
+cidrId        : 2956
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 204.10.28.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 204.10.28.0
+
+maxIp         : 204.10.28.255
+
+lastAction    : add
+
+
+
+cidrId        : 2957
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 69.31.121.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 69.31.121.0
+
+maxIp         : 69.31.121.255
+
+lastAction    : add
+
+
+
+cidrId        : 2958
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.39.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 72.247.39.0
+
+maxIp         : 72.247.39.255
+
+lastAction    : add
+
+
+
+cidrId        : 2959
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.17.158.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 96.17.158.0
+
+maxIp         : 96.17.158.255
+
+lastAction    : add
+
+
+
+cidrId        : 2960
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 216.151.177.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 216.151.177.0
+
+maxIp         : 216.151.177.255
+
+lastAction    : add
+
+
+
+cidrId        : 2961
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 90.223.226.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 90.223.226.0
+
+maxIp         : 90.223.226.255
+
+lastAction    : add
+
+
+
+cidrId        : 2962
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 198.63.231.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 198.63.231.0
+
+maxIp         : 198.63.231.255
+
+lastAction    : add
+
+
+
+cidrId        : 2963
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 213.248.114.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 213.248.114.0
+
+maxIp         : 213.248.114.255
+
+lastAction    : add
+
+
+
+cidrId        : 2964
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 207.138.133.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 207.138.133.0
+
+maxIp         : 207.138.133.255
+
+lastAction    : add
+
+
+
+cidrId        : 2965
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 77.67.22.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 77.67.22.0
+
+maxIp         : 77.67.22.255
+
+lastAction    : add
+
+
+
+cidrId        : 2966
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.4.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 72.247.4.0
+
+maxIp         : 72.247.4.255
+
+lastAction    : add
+
+
+
+cidrId        : 2967
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.200.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 23.15.200.0
+
+maxIp         : 23.15.200.255
+
+lastAction    : add
+
+
+
+cidrId        : 2968
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.201.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2011-12-02
+
+effectiveDate : 2011-12-17
+
+changeDate    : 
+
+minIp         : 23.15.201.0
+
+maxIp         : 23.15.201.255
+
+lastAction    : add
+
+
+
+cidrId        : 2981
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.58.83.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-01-09
+
+effectiveDate : 2012-01-24
+
+changeDate    : 
+
+minIp         : 23.58.83.0
+
+maxIp         : 23.58.83.255
+
+lastAction    : add
+
+
+
+cidrId        : 3021
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.180.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.180.0
+
+maxIp         : 23.65.180.255
+
+lastAction    : add
+
+
+
+cidrId        : 3022
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.123.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.123.0
+
+maxIp         : 23.65.123.255
+
+lastAction    : add
+
+
+
+cidrId        : 3023
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.122.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.122.0
+
+maxIp         : 23.65.122.255
+
+lastAction    : add
+
+
+
+cidrId        : 3024
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.60.68.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.60.68.0
+
+maxIp         : 23.60.68.255
+
+lastAction    : add
+
+
+
+cidrId        : 3025
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.25.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.25.0
+
+maxIp         : 23.65.25.255
+
+lastAction    : add
+
+
+
+cidrId        : 3026
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.26.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.26.0
+
+maxIp         : 23.65.26.255
+
+lastAction    : add
+
+
+
+cidrId        : 3027
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.27.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.27.0
+
+maxIp         : 23.65.27.255
+
+lastAction    : add
+
+
+
+cidrId        : 3028
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.24.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-03-22
+
+effectiveDate : 2012-04-06
+
+changeDate    : 
+
+minIp         : 23.65.24.0
+
+maxIp         : 23.65.24.255
+
+lastAction    : add
+
+
+
+cidrId        : 3061
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.58.89.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-04-30
+
+effectiveDate : 2012-05-15
+
+changeDate    : 
+
+minIp         : 23.58.89.0
+
+maxIp         : 23.58.89.255
+
+lastAction    : add
+
+
+
+cidrId        : 3062
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.65.121.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-04-30
+
+effectiveDate : 2012-05-15
+
+changeDate    : 
+
+minIp         : 23.65.121.0
+
+maxIp         : 23.65.121.255
+
+lastAction    : add
+
+
+
+cidrId        : 3063
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.67.254.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-04-30
+
+effectiveDate : 2012-05-15
+
+changeDate    : 
+
+minIp         : 23.67.254.0
+
+maxIp         : 23.67.254.255
+
+lastAction    : add
+
+
+
+cidrId        : 3064
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.67.58.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-04-30
+
+effectiveDate : 2012-05-15
+
+changeDate    : 
+
+minIp         : 23.67.58.0
+
+maxIp         : 23.67.58.255
+
+lastAction    : add
+
+
+
+cidrId        : 3101
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.52.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-05-14
+
+effectiveDate : 2012-05-29
+
+changeDate    : 
+
+minIp         : 23.62.52.0
+
+maxIp         : 23.62.52.255
+
+lastAction    : add
+
+
+
+cidrId        : 3141
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.61.200.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-06-20
+
+effectiveDate : 2012-07-05
+
+changeDate    : 
+
+minIp         : 23.61.200.0
+
+maxIp         : 23.61.200.255
+
+lastAction    : add
+
+
+
+cidrId        : 3142
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.61.201.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-06-20
+
+effectiveDate : 2012-07-05
+
+changeDate    : 
+
+minIp         : 23.61.201.0
+
+maxIp         : 23.61.201.255
+
+lastAction    : add
+
+
+
+cidrId        : 3143
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.158.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-06-20
+
+effectiveDate : 2012-07-05
+
+changeDate    : 
+
+minIp         : 23.62.158.0
+
+maxIp         : 23.62.158.255
+
+lastAction    : add
+
+
+
+cidrId        : 3144
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.108.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-06-20
+
+effectiveDate : 2012-07-05
+
+changeDate    : 
+
+minIp         : 23.62.108.0
+
+maxIp         : 23.62.108.255
+
+lastAction    : add
+
+
+
+cidrId        : 3145
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.101.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-06-20
+
+effectiveDate : 2012-07-05
+
+changeDate    : 
+
+minIp         : 23.62.101.0
+
+maxIp         : 23.62.101.255
+
+lastAction    : add
+
+
+
+cidrId        : 3641
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.60.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 23.62.60.0
+
+maxIp         : 23.62.60.255
+
+lastAction    : add
+
+
+
+cidrId        : 3642
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.11.232.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 23.11.232.0
+
+maxIp         : 23.11.232.255
+
+lastAction    : add
+
+
+
+cidrId        : 3643
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.26.92.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 184.26.92.0
+
+maxIp         : 184.26.92.255
+
+lastAction    : add
+
+
+
+cidrId        : 3644
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.26.45.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 184.26.45.0
+
+maxIp         : 184.26.45.255
+
+lastAction    : add
+
+
+
+cidrId        : 3645
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.0.175.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 23.0.175.0
+
+maxIp         : 23.0.175.255
+
+lastAction    : add
+
+
+
+cidrId        : 3646
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.63.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 184.51.63.0
+
+maxIp         : 184.51.63.255
+
+lastAction    : add
+
+
+
+cidrId        : 3647
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.17.198.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 96.17.198.0
+
+maxIp         : 96.17.198.255
+
+lastAction    : add
+
+
+
+cidrId        : 3648
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 69.192.1.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 69.192.1.0
+
+maxIp         : 69.192.1.255
+
+lastAction    : add
+
+
+
+cidrId        : 3649
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 69.192.2.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-10-10
+
+effectiveDate : 2012-10-25
+
+changeDate    : 
+
+minIp         : 69.192.2.0
+
+maxIp         : 69.192.2.255
+
+lastAction    : add
+
+
+
+cidrId        : 3661
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.159.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-11-09
+
+effectiveDate : 2012-11-24
+
+changeDate    : 
+
+minIp         : 23.62.159.0
+
+maxIp         : 23.62.159.255
+
+lastAction    : add
+
+
+
+cidrId        : 3662
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 69.192.0.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-11-09
+
+effectiveDate : 2012-11-24
+
+changeDate    : 
+
+minIp         : 69.192.0.0
+
+maxIp         : 69.192.0.255
+
+lastAction    : add
+
+
+
+cidrId        : 3663
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.62.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-11-09
+
+effectiveDate : 2012-11-24
+
+changeDate    : 
+
+minIp         : 184.51.62.0
+
+maxIp         : 184.51.62.255
+
+lastAction    : add
+
+
+
+cidrId        : 3681
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.11.233.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-11-12
+
+effectiveDate : 2012-11-27
+
+changeDate    : 
+
+minIp         : 23.11.233.0
+
+maxIp         : 23.11.233.255
+
+lastAction    : add
+
+
+
+cidrId        : 4725
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 92.123.75.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-11-28
+
+effectiveDate : 2012-12-13
+
+changeDate    : 
+
+minIp         : 92.123.75.0
+
+maxIp         : 92.123.75.255
+
+lastAction    : add
+
+
+
+cidrId        : 4726
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.209.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2012-11-28
+
+effectiveDate : 2012-12-13
+
+changeDate    : 
+
+minIp         : 184.84.209.0
+
+maxIp         : 184.84.209.255
+
+lastAction    : add
+
+
+
+cidrId        : 4861
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.40.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-20
+
+effectiveDate : 2013-03-07
+
+changeDate    : 
+
+minIp         : 184.28.40.0
+
+maxIp         : 184.28.40.255
+
+lastAction    : add
+
+
+
+cidrId        : 4862
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.41.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-20
+
+effectiveDate : 2013-03-07
+
+changeDate    : 
+
+minIp         : 184.28.41.0
+
+maxIp         : 184.28.41.255
+
+lastAction    : add
+
+
+
+cidrId        : 4863
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.79.253.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-20
+
+effectiveDate : 2013-03-07
+
+changeDate    : 
+
+minIp         : 23.79.253.0
+
+maxIp         : 23.79.253.255
+
+lastAction    : add
+
+
+
+cidrId        : 4864
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.12.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-20
+
+effectiveDate : 2013-03-07
+
+changeDate    : 
+
+minIp         : 184.51.12.0
+
+maxIp         : 184.51.12.255
+
+lastAction    : add
+
+
+
+cidrId        : 4881
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.33.124.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-21
+
+effectiveDate : 2013-03-08
+
+changeDate    : 
+
+minIp         : 23.33.124.0
+
+maxIp         : 23.33.124.255
+
+lastAction    : add
+
+
+
+cidrId        : 4882
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.33.184.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-21
+
+effectiveDate : 2013-03-08
+
+changeDate    : 
+
+minIp         : 23.33.184.0
+
+maxIp         : 23.33.184.255
+
+lastAction    : add
+
+
+
+cidrId        : 4883
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 88.221.91.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-21
+
+effectiveDate : 2013-03-08
+
+changeDate    : 
+
+minIp         : 88.221.91.0
+
+maxIp         : 88.221.91.255
+
+lastAction    : add
+
+
+
+cidrId        : 4884
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 199.2.204.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-02-21
+
+effectiveDate : 2013-03-08
+
+changeDate    : 
+
+minIp         : 199.2.204.0
+
+maxIp         : 199.2.204.255
+
+lastAction    : add
+
+
+
+cidrId        : 4961
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.51.201.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-03-18
+
+effectiveDate : 2013-04-02
+
+changeDate    : 
+
+minIp         : 184.51.201.0
+
+maxIp         : 184.51.201.255
+
+lastAction    : add
+
+
+
+cidrId        : 4962
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.50.84.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-03-18
+
+effectiveDate : 2013-04-02
+
+changeDate    : 
+
+minIp         : 184.50.84.0
+
+maxIp         : 184.50.84.255
+
+lastAction    : add
+
+
+
+cidrId        : 4995
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.50.94.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-04-18
+
+effectiveDate : 2013-05-03
+
+changeDate    : 
+
+minIp         : 184.50.94.0
+
+maxIp         : 184.50.94.255
+
+lastAction    : add
+
+
+
+cidrId        : 4996
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.79.248.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-04-18
+
+effectiveDate : 2013-05-03
+
+changeDate    : 
+
+minIp         : 23.79.248.0
+
+maxIp         : 23.79.248.255
+
+lastAction    : add
+
+
+
+cidrId        : 4997
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 88.221.108.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-04-18
+
+effectiveDate : 2013-05-03
+
+changeDate    : 
+
+minIp         : 88.221.108.0
+
+maxIp         : 88.221.108.255
+
+lastAction    : add
+
+
+
+cidrId        : 5065
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.79.242.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-04-26
+
+effectiveDate : 2013-05-11
+
+changeDate    : 
+
+minIp         : 23.79.242.0
+
+maxIp         : 23.79.242.255
+
+lastAction    : add
+
+
+
+cidrId        : 5085
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 92.123.145.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-04-30
+
+effectiveDate : 2013-05-15
+
+changeDate    : 2013-05-06
+
+minIp         : 92.123.145.0
+
+maxIp         : 92.123.145.255
+
+lastAction    : add
+
+
+
+cidrId        : 5191
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.6.119.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-05-29
+
+effectiveDate : 2013-06-13
+
+changeDate    : 
+
+minIp         : 96.6.119.0
+
+maxIp         : 96.6.119.255
+
+lastAction    : add
+
+
+
+cidrId        : 5205
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.247.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-05-31
+
+effectiveDate : 2013-06-15
+
+changeDate    : 
+
+minIp         : 184.84.247.0
+
+maxIp         : 184.84.247.255
+
+lastAction    : add
+
+
+
+cidrId        : 5225
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.76.152.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-06-08
+
+effectiveDate : 2013-06-23
+
+changeDate    : 
+
+minIp         : 23.76.152.0
+
+maxIp         : 23.76.152.255
+
+lastAction    : add
+
+
+
+cidrId        : 5265
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.27.201.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-06-25
+
+effectiveDate : 2013-07-15
+
+changeDate    : 
+
+minIp         : 184.27.201.0
+
+maxIp         : 184.27.201.255
+
+lastAction    : add
+
+
+
+cidrId        : 5291
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.5.168.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-06-28
+
+effectiveDate : 2013-07-13
+
+changeDate    : 
+
+minIp         : 23.5.168.0
+
+maxIp         : 23.5.168.255
+
+lastAction    : add
+
+
+
+cidrId        : 5292
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 173.223.26.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-06-28
+
+effectiveDate : 2013-07-13
+
+changeDate    : 
+
+minIp         : 173.223.26.0
+
+maxIp         : 173.223.26.255
+
+lastAction    : add
+
+
+
+cidrId        : 5325
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.77.205.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-07-10
+
+effectiveDate : 2013-07-25
+
+changeDate    : 
+
+minIp         : 23.77.205.0
+
+maxIp         : 23.77.205.255
+
+lastAction    : add
+
+
+
+cidrId        : 5326
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.60.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-07-10
+
+effectiveDate : 2013-07-25
+
+changeDate    : 
+
+minIp         : 2.16.60.0
+
+maxIp         : 2.16.60.255
+
+lastAction    : add
+
+
+
+cidrId        : 5978
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.94.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-08-01
+
+effectiveDate : 2013-08-15
+
+changeDate    : 2013-08-01
+
+minIp         : 184.28.94.0
+
+maxIp         : 184.28.94.255
+
+lastAction    : update
+
+
+
+cidrId        : 5979
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.95.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-08-01
+
+effectiveDate : 2013-08-15
+
+changeDate    : 2013-08-01
+
+minIp         : 184.28.95.0
+
+maxIp         : 184.28.95.255
+
+lastAction    : update
+
+
+
+cidrId        : 6042
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.176.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-08-24
+
+effectiveDate : 2013-09-08
+
+changeDate    : 
+
+minIp         : 184.84.176.0
+
+maxIp         : 184.84.176.255
+
+lastAction    : add
+
+
+
+cidrId        : 6062
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.6.125.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-08-30
+
+effectiveDate : 2013-09-14
+
+changeDate    : 
+
+minIp         : 96.6.125.0
+
+maxIp         : 96.6.125.255
+
+lastAction    : add
+
+
+
+cidrId        : 6063
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.176.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-08-30
+
+effectiveDate : 2013-09-14
+
+changeDate    : 
+
+minIp         : 184.28.176.0
+
+maxIp         : 184.28.176.255
+
+lastAction    : add
+
+
+
+cidrId        : 6064
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.177.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-08-30
+
+effectiveDate : 2013-09-14
+
+changeDate    : 2013-09-05
+
+minIp         : 184.28.177.0
+
+maxIp         : 184.28.177.255
+
+lastAction    : add
+
+
+
+cidrId        : 6090
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.5.169.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-09-05
+
+effectiveDate : 2013-09-20
+
+changeDate    : 
+
+minIp         : 23.5.169.0
+
+maxIp         : 23.5.169.255
+
+lastAction    : add
+
+
+
+cidrId        : 6091
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.3.93.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-09-05
+
+effectiveDate : 2013-09-20
+
+changeDate    : 
+
+minIp         : 23.3.93.0
+
+maxIp         : 23.3.93.255
+
+lastAction    : add
+
+
+
+cidrId        : 6092
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.3.92.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-09-05
+
+effectiveDate : 2013-09-20
+
+changeDate    : 
+
+minIp         : 23.3.92.0
+
+maxIp         : 23.3.92.255
+
+lastAction    : add
+
+
+
+cidrId        : 6102
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.53.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-09-10
+
+effectiveDate : 2013-09-25
+
+changeDate    : 
+
+minIp         : 2.16.53.0
+
+maxIp         : 2.16.53.255
+
+lastAction    : add
+
+
+
+cidrId        : 6162
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.205.112.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-09-19
+
+effectiveDate : 2013-10-04
+
+changeDate    : 
+
+minIp         : 23.205.112.0
+
+maxIp         : 23.205.112.255
+
+lastAction    : add
+
+
+
+cidrId        : 6242
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.254.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-10-22
+
+effectiveDate : 2013-11-06
+
+changeDate    : 
+
+minIp         : 184.84.254.0
+
+maxIp         : 184.84.254.255
+
+lastAction    : add
+
+
+
+cidrId        : 6243
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.255.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-10-22
+
+effectiveDate : 2013-11-06
+
+changeDate    : 
+
+minIp         : 184.84.255.0
+
+maxIp         : 184.84.255.255
+
+lastAction    : add
+
+
+
+cidrId        : 6244
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.84.177.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-10-22
+
+effectiveDate : 2013-11-06
+
+changeDate    : 
+
+minIp         : 184.84.177.0
+
+maxIp         : 184.84.177.255
+
+lastAction    : add
+
+
+
+cidrId        : 6345
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.208.18.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-11
+
+effectiveDate : 2013-11-26
+
+changeDate    : 
+
+minIp         : 23.208.18.0
+
+maxIp         : 23.208.18.255
+
+lastAction    : add
+
+
+
+cidrId        : 6346
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.208.19.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-11
+
+effectiveDate : 2013-11-26
+
+changeDate    : 
+
+minIp         : 23.208.19.0
+
+maxIp         : 23.208.19.255
+
+lastAction    : add
+
+
+
+cidrId        : 6347
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.116.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-11
+
+effectiveDate : 2013-11-26
+
+changeDate    : 
+
+minIp         : 2.16.116.0
+
+maxIp         : 2.16.116.255
+
+lastAction    : add
+
+
+
+cidrId        : 6348
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.215.13.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-12
+
+effectiveDate : 2013-11-27
+
+changeDate    : 
+
+minIp         : 23.215.13.0
+
+maxIp         : 23.215.13.255
+
+lastAction    : add
+
+
+
+cidrId        : 6362
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.205.46.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-15
+
+effectiveDate : 2013-11-30
+
+changeDate    : 
+
+minIp         : 23.205.46.0
+
+maxIp         : 23.205.46.255
+
+lastAction    : add
+
+
+
+cidrId        : 6382
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 20.205.45.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-19
+
+effectiveDate : 2013-12-04
+
+changeDate    : 
+
+minIp         : 20.205.45.0
+
+maxIp         : 20.205.45.255
+
+lastAction    : add
+
+
+
+cidrId        : 6383
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 88.221.80.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-19
+
+effectiveDate : 2013-12-04
+
+changeDate    : 
+
+minIp         : 88.221.80.0
+
+maxIp         : 88.221.80.255
+
+lastAction    : add
+
+
+
+cidrId        : 6417
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.215.14.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-25
+
+effectiveDate : 2013-12-10
+
+changeDate    : 
+
+minIp         : 23.215.14.0
+
+maxIp         : 23.215.14.255
+
+lastAction    : add
+
+
+
+cidrId        : 6418
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.21.247.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-11-26
+
+effectiveDate : 2013-12-11
+
+changeDate    : 
+
+minIp         : 2.21.247.0
+
+maxIp         : 2.21.247.255
+
+lastAction    : add
+
+
+
+cidrId        : 6442
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 88.221.85.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-03
+
+effectiveDate : 2013-12-18
+
+changeDate    : 
+
+minIp         : 88.221.85.0
+
+maxIp         : 88.221.85.255
+
+lastAction    : add
+
+
+
+cidrId        : 6443
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.136.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-03
+
+effectiveDate : 2013-12-18
+
+changeDate    : 
+
+minIp         : 2.16.136.0
+
+maxIp         : 2.16.136.255
+
+lastAction    : add
+
+
+
+cidrId        : 6444
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.137.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-03
+
+effectiveDate : 2013-12-18
+
+changeDate    : 
+
+minIp         : 2.16.137.0
+
+maxIp         : 2.16.137.255
+
+lastAction    : add
+
+
+
+cidrId        : 6482
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.212.51.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-10
+
+effectiveDate : 2013-12-25
+
+changeDate    : 
+
+minIp         : 23.212.51.0
+
+maxIp         : 23.212.51.255
+
+lastAction    : add
+
+
+
+cidrId        : 6502
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.246.19.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-12
+
+effectiveDate : 2013-12-27
+
+changeDate    : 
+
+minIp         : 72.246.19.0
+
+maxIp         : 72.246.19.255
+
+lastAction    : add
+
+
+
+cidrId        : 6602
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.220.146.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-25
+
+effectiveDate : 2014-01-09
+
+changeDate    : 
+
+minIp         : 23.220.146.0
+
+maxIp         : 23.220.146.255
+
+lastAction    : add
+
+
+
+cidrId        : 6603
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.205.45.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-25
+
+effectiveDate : 2014-01-09
+
+changeDate    : 
+
+minIp         : 23.205.45.0
+
+maxIp         : 23.205.45.255
+
+lastAction    : add
+
+
+
+cidrId        : 6622
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.212.48.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2013-12-29
+
+effectiveDate : 2014-01-13
+
+changeDate    : 
+
+minIp         : 23.212.48.0
+
+maxIp         : 23.212.48.255
+
+lastAction    : add
+
+
+
+cidrId        : 6642
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.97.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-01-14
+
+effectiveDate : 2014-01-29
+
+changeDate    : 
+
+minIp         : 96.16.97.0
+
+maxIp         : 96.16.97.255
+
+lastAction    : add
+
+
+
+cidrId        : 6782
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.50.30.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-01-30
+
+effectiveDate : 2014-02-14
+
+changeDate    : 
+
+minIp         : 184.50.30.0
+
+maxIp         : 184.50.30.255
+
+lastAction    : add
+
+
+
+cidrId        : 6783
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.50.31.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-01-30
+
+effectiveDate : 2014-02-14
+
+changeDate    : 
+
+minIp         : 184.50.31.0
+
+maxIp         : 184.50.31.255
+
+lastAction    : add
+
+
+
+cidrId        : 6822
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.220.147.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-02-05
+
+effectiveDate : 2014-02-20
+
+changeDate    : 
+
+minIp         : 23.220.147.0
+
+maxIp         : 23.220.147.255
+
+lastAction    : add
+
+
+
+cidrId        : 6917
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.127.249.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-03-05
+
+effectiveDate : 2014-03-20
+
+changeDate    : 
+
+minIp         : 2.127.249.0
+
+maxIp         : 2.127.249.255
+
+lastAction    : add
+
+
+
+cidrId        : 7082
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.50.230.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-04-03
+
+effectiveDate : 2014-04-18
+
+changeDate    : 
+
+minIp         : 184.50.230.0
+
+maxIp         : 184.50.230.255
+
+lastAction    : add
+
+
+
+cidrId        : 7102
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.208.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-04-14
+
+effectiveDate : 2014-04-29
+
+changeDate    : 
+
+minIp         : 184.28.208.0
+
+maxIp         : 184.28.208.255
+
+lastAction    : add
+
+
+
+cidrId        : 7103
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.169.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-04-14
+
+effectiveDate : 2014-04-29
+
+changeDate    : 
+
+minIp         : 2.16.169.0
+
+maxIp         : 2.16.169.255
+
+lastAction    : add
+
+
+
+cidrId        : 7104
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.123.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-04-14
+
+effectiveDate : 2014-04-29
+
+changeDate    : 
+
+minIp         : 96.16.123.0
+
+maxIp         : 96.16.123.255
+
+lastAction    : add
+
+
+
+cidrId        : 7122
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.3.9.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-04-27
+
+effectiveDate : 2014-05-12
+
+changeDate    : 
+
+minIp         : 23.3.9.0
+
+maxIp         : 23.3.9.255
+
+lastAction    : add
+
+
+
+cidrId        : 7162
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.16.122.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-05-06
+
+effectiveDate : 2014-05-21
+
+changeDate    : 
+
+minIp         : 96.16.122.0
+
+maxIp         : 96.16.122.255
+
+lastAction    : add
+
+
+
+cidrId        : 7182
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.209.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-05-08
+
+effectiveDate : 2014-05-23
+
+changeDate    : 
+
+minIp         : 184.28.209.0
+
+maxIp         : 184.28.209.255
+
+lastAction    : add
+
+
+
+cidrId        : 7302
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 72.247.6.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-05-27
+
+effectiveDate : 2014-06-11
+
+changeDate    : 
+
+minIp         : 72.247.6.0
+
+maxIp         : 72.247.6.255
+
+lastAction    : add
+
+
+
+cidrId        : 7303
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.5.167.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-05-27
+
+effectiveDate : 2014-06-11
+
+changeDate    : 
+
+minIp         : 23.5.167.0
+
+maxIp         : 23.5.167.255
+
+lastAction    : add
+
+
+
+cidrId        : 7342
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.15.134.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-05-30
+
+effectiveDate : 2014-06-14
+
+changeDate    : 
+
+minIp         : 23.15.134.0
+
+maxIp         : 23.15.134.255
+
+lastAction    : add
+
+
+
+cidrId        : 7382
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 95.101.38.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-06-10
+
+effectiveDate : 2014-06-25
+
+changeDate    : 
+
+minIp         : 95.101.38.0
+
+maxIp         : 95.101.38.255
+
+lastAction    : add
+
+
+
+cidrId        : 7662
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.14.129.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-06-26
+
+effectiveDate : 2014-07-11
+
+changeDate    : 
+
+minIp         : 23.14.129.0
+
+maxIp         : 23.14.129.255
+
+lastAction    : add
+
+
+
+cidrId        : 7682
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.240.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-07-03
+
+effectiveDate : 2014-07-18
+
+changeDate    : 
+
+minIp         : 96.7.240.0
+
+maxIp         : 96.7.240.255
+
+lastAction    : add
+
+
+
+cidrId        : 7822
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.16.177.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-07-30
+
+effectiveDate : 2014-08-14
+
+changeDate    : 
+
+minIp         : 2.16.177.0
+
+maxIp         : 2.16.177.255
+
+lastAction    : add
+
+
+
+cidrId        : 7842
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.4.85.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-08-01
+
+effectiveDate : 2014-08-16
+
+changeDate    : 
+
+minIp         : 23.4.85.0
+
+maxIp         : 23.4.85.255
+
+lastAction    : add
+
+
+
+cidrId        : 7902
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.3.3.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-08-25
+
+effectiveDate : 2014-09-09
+
+changeDate    : 
+
+minIp         : 23.3.3.0
+
+maxIp         : 23.3.3.255
+
+lastAction    : add
+
+
+
+cidrId        : 7942
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.2.32.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-09-06
+
+effectiveDate : 2014-09-21
+
+changeDate    : 
+
+minIp         : 23.2.32.0
+
+maxIp         : 23.2.32.255
+
+lastAction    : add
+
+
+
+cidrId        : 8062
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 96.7.242.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-10-08
+
+effectiveDate : 2014-10-23
+
+changeDate    : 
+
+minIp         : 96.7.242.0
+
+maxIp         : 96.7.242.255
+
+lastAction    : add
+
+
+
+cidrId        : 8122
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.85.251.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-10-22
+
+effectiveDate : 2014-11-06
+
+changeDate    : 
+
+minIp         : 184.85.251.0
+
+maxIp         : 184.85.251.255
+
+lastAction    : add
+
+
+
+cidrId        : 8123
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.67.150.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-10-22
+
+effectiveDate : 2014-11-06
+
+changeDate    : 
+
+minIp         : 23.67.150.0
+
+maxIp         : 23.67.150.255
+
+lastAction    : add
+
+
+
+cidrId        : 8124
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.3.2.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-10-22
+
+effectiveDate : 2014-11-06
+
+changeDate    : 
+
+minIp         : 23.3.2.0
+
+maxIp         : 23.3.2.255
+
+lastAction    : add
+
+
+
+cidrId        : 8182
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.219.172.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-11-14
+
+effectiveDate : 2014-11-29
+
+changeDate    : 
+
+minIp         : 23.219.172.0
+
+maxIp         : 23.219.172.255
+
+lastAction    : add
+
+
+
+cidrId        : 8202
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.28.115.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-11-21
+
+effectiveDate : 2014-12-06
+
+changeDate    : 
+
+minIp         : 184.28.115.0
+
+maxIp         : 184.28.115.255
+
+lastAction    : add
+
+
+
+cidrId        : 8203
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 2.18.249.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-11-21
+
+effectiveDate : 2014-12-06
+
+changeDate    : 
+
+minIp         : 2.18.249.0
+
+maxIp         : 2.18.249.255
+
+lastAction    : add
+
+
+
+cidrId        : 8302
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.9.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2014-12-25
+
+effectiveDate : 2015-01-09
+
+changeDate    : 
+
+minIp         : 23.62.9.0
+
+maxIp         : 23.62.9.255
+
+lastAction    : add
+
+
+
+cidrId        : 8502
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 184.86.221.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2015-01-28
+
+effectiveDate : 2015-02-12
+
+changeDate    : 
+
+minIp         : 184.86.221.0
+
+maxIp         : 184.86.221.255
+
+lastAction    : add
+
+
+
+cidrId        : 12463
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 104.86.109.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2016-08-08
+
+effectiveDate : 2016-08-23
+
+changeDate    : 
+
+minIp         : 104.86.109.0
+
+maxIp         : 104.86.109.255
+
+lastAction    : add
+
+
+
+cidrId        : 12464
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 104.103.235.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2016-08-08
+
+effectiveDate : 2016-08-23
+
+changeDate    : 
+
+minIp         : 104.103.235.0
+
+maxIp         : 104.103.235.255
+
+lastAction    : add
+
+
+
+cidrId        : 12465
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 104.115.44.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2016-08-08
+
+effectiveDate : 2016-08-23
+
+changeDate    : 
+
+minIp         : 104.115.44.0
+
+maxIp         : 104.115.44.255
+
+lastAction    : add
+
+
+
+cidrId        : 12466
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.219.89.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2016-08-08
+
+effectiveDate : 2016-08-23
+
+changeDate    : 
+
+minIp         : 23.219.89.0
+
+maxIp         : 23.219.89.255
+
+lastAction    : add
+
+
+
+cidrId        : 13504
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.53.124.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-01-10
+
+effectiveDate : 2017-01-25
+
+changeDate    : 
+
+minIp         : 23.53.124.0
+
+maxIp         : 23.53.124.255
+
+lastAction    : add
+
+
+
+cidrId        : 13505
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.53.125.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-01-10
+
+effectiveDate : 2017-01-25
+
+changeDate    : 
+
+minIp         : 23.53.125.0
+
+maxIp         : 23.53.125.255
+
+lastAction    : add
+
+
+
+cidrId        : 13506
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.194.124.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-01-10
+
+effectiveDate : 2017-01-25
+
+changeDate    : 
+
+minIp         : 23.194.124.0
+
+maxIp         : 23.194.124.255
+
+lastAction    : add
+
+
+
+cidrId        : 13507
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.194.125.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-01-10
+
+effectiveDate : 2017-01-25
+
+changeDate    : 
+
+minIp         : 23.194.125.0
+
+maxIp         : 23.194.125.255
+
+lastAction    : add
+
+
+
+cidrId        : 13522
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.62.96.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-01-18
+
+effectiveDate : 2017-02-02
+
+changeDate    : 
+
+minIp         : 23.62.96.0
+
+maxIp         : 23.62.96.255
+
+lastAction    : add
+
+
+
+cidrId        : 14062
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.36.204.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-04-05
+
+effectiveDate : 2017-04-20
+
+changeDate    : 
+
+minIp         : 23.36.204.0
+
+maxIp         : 23.36.204.255
+
+lastAction    : add
+
+
+
+cidrId        : 14063
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.40.64.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-04-05
+
+effectiveDate : 2017-04-20
+
+changeDate    : 
+
+minIp         : 23.40.64.0
+
+maxIp         : 23.40.64.255
+
+lastAction    : add
+
+
+
+cidrId        : 14064
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.36.207.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-04-05
+
+effectiveDate : 2017-04-20
+
+changeDate    : 
+
+minIp         : 23.36.207.0
+
+maxIp         : 23.36.207.255
+
+lastAction    : add
+
+
+
+cidrId        : 14065
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.36.205.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-04-05
+
+effectiveDate : 2017-04-20
+
+changeDate    : 
+
+minIp         : 23.36.205.0
+
+maxIp         : 23.36.205.255
+
+lastAction    : add
+
+
+
+cidrId        : 14066
+
+serviceId     : 10
+
+serviceName   : NETSTORAGE
+
+description   : NetStorage Content Mgmt: FileStore
+
+cidr          : 23.36.206.0
+
+cidrMask      : /24
+
+port          : 20,21,22,873,32768-65535
+
+creationDate  : 2017-04-05
+
+effectiveDate : 2017-04-20
+
+changeDate    : 
+
+minIp         : 23.36.206.0
+
+maxIp         : 23.36.206.255
+
+lastAction    : add
+
+
+
+Updating NSG Rule...
+
+
+
+Updating NSG Rule COMPELTE
+
+
