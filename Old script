@@ -1,0 +1,61 @@
+$connectionName = "AzureRunAsConnection"
+try
+{
+    # Get the connection "AzureRunAsConnection"
+    $servicePrincipalConnection=Get-AutomationConnection -Name $connectionName         
+
+    "Logging in to Azure..."
+    Add-AzureRmAccount `
+        -ServicePrincipal `
+        -TenantId $servicePrincipalConnection.TenantId `
+        -ApplicationId $servicePrincipalConnection.ApplicationId `
+        -CertificateThumbprint $servicePrincipalConnection.CertificateThumbprint | Out-Null
+}
+catch {
+    if (!$servicePrincipalConnection)
+    {
+        $ErrorMessage = "Connection $connectionName not found."
+        throw $ErrorMessage
+    } else{
+        Write-Error -Message $_.Exception
+        throw $_.Exception
+    }
+}
+"Selecting Azure Subscription..."
+Select-AzureRMSubscription -SubscriptionName 'Digital Platform NonProd' | Out-Null
+
+# set IP
+"Resolving FQDN..."
+$currentIpAddress = [system.net.dns]::GetHostByName("ihsgroup.upload.akamai.com").AddressList.IPAddressToString
+
+# set NSG Rule Parameters
+"Updating NSG Rule..."
+$nsg = Get-AzureRmNetworkSecurityGroup -Name "ihsmeus2-dev" -ResourceGroupName "ihsmeus2-dev-NSG"
+Set-AzureRmNetworkSecurityRuleConfig -NetworkSecurityGroup $nsg `
+    -Name AllowAkamaiFTP `
+    -Access Allow `
+    -Protocol * `
+    -Direction Outbound `
+    -Priority 119 `
+    -SourceAddressPrefix * `
+    -SourcePortRange * `
+    -DestinationAddressPrefix $currentIpAddress `
+    -DestinationPortRange * | Out-Null
+$null = Set-AzureRmNetworkSecurityGroup -NetworkSecurityGroup $nsg | Out-Null
+"Updating NSG Rule COMPELTE"
+
+# set NSG Rule Parameters
+"Updating NSG Rule..."
+$nsg2 = Get-AzureRmNetworkSecurityGroup -Name "ihsmeus2-stage" -ResourceGroupName "ihsmeus2-stage-NSG"
+Set-AzureRmNetworkSecurityRuleConfig -NetworkSecurityGroup $nsg2 `
+    -Name AllowAkamaiFTP `
+    -Access Allow `
+    -Protocol * `
+    -Direction Outbound `
+    -Priority 119 `
+    -SourceAddressPrefix * `
+    -SourcePortRange * `
+    -DestinationAddressPrefix $currentIpAddress `
+    -DestinationPortRange * | Out-Null
+$null2 = Set-AzureRmNetworkSecurityGroup -NetworkSecurityGroup $nsg2 | Out-Null
+"Updating NSG Rule COMPELTE"
