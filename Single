@@ -1,0 +1,156 @@
+$connectionName = "AzureRunAsConnection"
+try
+{
+    # Get the connection "AzureRunAsConnection"
+    $servicePrincipalConnection=Get-AutomationConnection -Name $connectionName         
+
+    "Logging in to Azure..."
+    Add-AzureRmAccount `
+        -ServicePrincipal `
+        -TenantId $servicePrincipalConnection.TenantId `
+        -ApplicationId $servicePrincipalConnection.ApplicationId `
+        -CertificateThumbprint $servicePrincipalConnection.CertificateThumbprint | Out-Null
+}
+catch {
+    if (!$servicePrincipalConnection)
+    {
+        $ErrorMessage = "Connection $connectionName not found."
+        throw $ErrorMessage
+    } else{
+        Write-Error -Message $_.Exception
+        throw $_.Exception
+    }
+}
+"Selecting Azure Subscription..."
+Select-AzureRMSubscription -SubscriptionName 'Digital Platform NonProd' | Out-Null
+
+
+# ----------------- AKAMAI CODE BELOW ------------------------------------------------------------------------
+
+#Function to generate HMAC SHA256 Base64
+Function Crypto ($secret, $message)
+{
+  [byte[]] $keyByte = [System.Text.Encoding]::ASCII.GetBytes($secret)
+  [byte[]] $messageBytes = [System.Text.Encoding]::ASCII.GetBytes($message)
+  $hmac = new-object System.Security.Cryptography.HMACSHA256((,$keyByte))
+  [byte[]] $hashmessage = $hmac.ComputeHash($messageBytes)
+  $Crypt = [System.Convert]::ToBase64String($hashmessage)
+
+  return $Crypt
+}
+
+# Sample URI:
+
+    # $uri = "https://xxxxxxx.luna.akamaiapis.net/diagnostic-tools/v1/locations"
+  # List CIDR blocks
+    # $uri = "https://xxxxxxx.luna.akamaiapis.net/identity-management/v1/user-admin/ip-acl/whitelist?actions=true"
+
+
+$uri = "https://" + (Get-AutomationVariable -Name "AKAMAI_FRM_host") + "/firewall-rules-manager/v1/cidr-blocks"
+$client_token = Get-AutomationVariable -Name "AKAMAI_FRM_client_token"
+$client_secret = Get-AutomationVariable -Name "AKAMAI_FRM_client_secret"
+$access_token = Get-AutomationVariable -Name "AKAMAI_FRM_access_token"
+$time_stamp = Get-Date -Format "yyyyMMddTHH:mm:ss+0000"
+$nonce = New-Guid
+$signature = ''
+
+$Method = "GET"
+$Body = ""
+
+
+#Uri Verification
+If (($uri -as [System.URI]).AbsoluteURI -eq $null -or $uri -notmatch "akamaiapis.net")
+{
+  throw "Error: Ivalid Request URI"
+}
+
+#Split $uri for inclusion in SignatureData
+$UriArray = $uri -split "(.*\/{2})(.*?)(\/)(.*)"
+
+
+#Build data string for signature generation
+$SignatureData = $Method + "`thttps`t"
+$SignatureData += $UriArray[2] + "`t" + $UriArray[3] + $UriArray[4]
+
+#Add body to signature. Truncate if body is greater than max-body (Akamai default is 131072). PUT Medthod does not require adding to signature.
+
+if ($Body -and $Method -eq "POST")
+{
+  $Body_SHA256 = [System.Security.Cryptography.SHA256]::Create()
+  if($Body.Length -gt $MaxBody){
+    $Post_Hash = [System.Convert]::ToBase64String($Body_SHA256.ComputeHash([System.Text.Encoding]::ASCII.GetBytes($Body.Substring(0,$MaxBody))))
+  }
+  else{
+    $Post_Hash = [System.Convert]::ToBase64String($Body_SHA256.ComputeHash([System.Text.Encoding]::ASCII.GetBytes($Body)))
+  }
+
+  $SignatureData += "`t`t" + $Post_Hash + "`t"
+}
+else
+{
+  $SignatureData += "`t`t`t"
+}
+
+$SignatureData += "EG1-HMAC-SHA256 "
+$SignatureData += "client_token=" + $client_token + ";"
+$SignatureData += "access_token=" + $access_token + ";"
+$SignatureData += "timestamp=" + $time_stamp  + ";"
+$SignatureData += "nonce=" + $Nonce + ";"
+
+#Generate SigningKey
+$SigningKey = Crypto -secret $client_secret -message $time_stamp
+
+#Generate Auth Signature
+$Signature = Crypto -secret $SigningKey -message $SignatureData
+
+#Create AuthHeader
+$AuthorizationHeader = "EG1-HMAC-SHA256 "
+$AuthorizationHeader += "client_token=" + $client_token + ";"
+$AuthorizationHeader += "access_token=" + $access_token + ";"
+$AuthorizationHeader += "timestamp=" + $time_stamp + ";"
+$AuthorizationHeader += "nonce=" + $Nonce + ";"
+$AuthorizationHeader += "signature=" + $Signature
+
+#Create IDictionary to hold request headers
+$Headers = @{}
+
+#Add Auth header
+$Headers.Add('Authorization',$AuthorizationHeader)
+
+
+"uri = " + $uri
+"header = " + $AuthorizationHeader
+
+# set IP
+"Resolving FQDN..."
+$currentIpAddress = Invoke-RestMethod -Uri $uri -Method $Method -Headers $headers
+$currentIpAddress
+
+
+# For List CIDR blocks, use the correct URI  ie  $uri = "https://xxxxxxx.luna.akamaiapis.net/identity-management/v1/user-admin/ip-acl/whitelist?actions=true"
+
+$cidrData = @()
+foreach($IPAddress in $currentIpAddress)
+{
+    [string]$data = $($IPAddress.cidr).ToString() + $($IPAddress.cidrmask).ToString()
+    $cidrData+= $data
+}
+
+Write-Host "CIDR Data for NSG: "
+$cidrData
+
+# set NSG Rule Parameters
+"Updating NSG Rule..."
+$nsg = Get-AzureRmNetworkSecurityGroup -Name "ihsmeus2-dev" -ResourceGroupName "ihsmeus2-dev-NSG"
+Set-AzureRmNetworkSecurityRuleConfig -NetworkSecurityGroup $nsg `
+    -Name AllowAkamaiFTPtest `
+    -Access Allow `
+    -Protocol * `
+    -Direction Outbound `
+    -Priority 100 `
+    -SourceAddressPrefix * `
+    -SourcePortRange * `
+    -DestinationAddressPrefix $cidrData[0] ` # $currentIpAddress ` # replaced here with $cidrData  # Passing only 1 CIDR address 
+    -DestinationPortRange * | Out-Null
+$null = Set-AzureRmNetworkSecurityGroup -NetworkSecurityGroup $nsg | Out-Null
+"Updating NSG Rule COMPELTE"
